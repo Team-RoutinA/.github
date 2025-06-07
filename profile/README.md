@@ -2,12 +2,19 @@
 
 # **RoutinA**
 
+**Your Alarm to a Better Morning**
+
 </div>
 
 <br>
 
 <p align="center">
   <img src="https://via.placeholder.com/800x400" alt="RoutinA Mockup">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Tech_Stack-Placeholder-blue?style=flat-square" alt="Tech Stack">
+  <img src="https://img.shields.io/badge/License-Placeholder-green?style=flat-square" alt="License">
 </p>
 
 <br>
