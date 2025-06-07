@@ -1,8 +1,8 @@
 <div align="center">
 
-# **🚀 RoutinA 🚀**
+# **RoutinA**
 
-**Your Alarm to a Better Morning**
+### **Your Alarm to a Better Morning**
 
 </div>
 
@@ -62,5 +62,5 @@ RoutinA is an alarm-based morning routine management agent. This service aims to
 
 ## **📂 Main Repositories**
 
-* **[RoutinA-iOS](https://github.com/your-organization/RoutinA-iOS)**: 📱 The official iOS client for RoutinA.
-* **[RoutinA-Server](https://github.com/your-organization/RoutinA-Server)**: ☁️ The backend server handling API requests and data processing.
+* **[RoutinA-iOS](https://github.com/Team-RoutinA/routina-mobile-ios)**: 📱 The official iOS client for RoutinA.
+* **[RoutinA-Server](https://github.com/Team-RoutinA/routina-server-2)**: ☁️ The backend server handling API requests and data processing.
