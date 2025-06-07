@@ -53,12 +53,12 @@ RoutinA is an alarm-based morning routine management agent. This service aims to
 <br>
 
 ## **🚀 Our Team**
-| Profile Image | Name | Role | GitHub |
-| :---: | :---: | :---: | :---: |
-| <img src="https://via.placeholder.com/150/FFF200/000000?text=이미지+준비중" alt="지영인 프로필" width="150"> | 지영인 | Product Manager | [@GitHubID](https://github.com/github-id-placeholder) |
-| <img src="https://via.placeholder.com/150/E43424/FFFFFF?text=이미지+준비중" alt="이슬기 프로필" width="150"> | 이슬기 | Mobile(iOS) Developer | [@GitHubID](https://github.com/github-id-placeholder) |
-| <img src="https://via.placeholder.com/150/87CEEB/FFFFFF?text=이미지+준비중" alt="이재혁 프로필" width="150"> | 이재혁 | Mobile(iOS) Developer | [@GitHubID](https://github.com/github-id-placeholder) |
-| <img src="https://via.placeholder.com/150/808080/FFFFFF?text=이미지+준비중" alt="박상혁 프로필" width="150"> | 박상혁 | Server Developer | [@GitHubID](https://github.com/github-id-placeholder) |
+| Profile Image | Name | Role |
+| :---: | :---: | :---: |
+| <img src="https://avatars.githubusercontent.com/u/139129405?v=4" alt="지영인 프로필" width="150"> | [지영인](https://github.com/yeongin-ji) | Product Manager | 
+| <img src="https://avatars.githubusercontent.com/u/106726904?v=4" alt="이슬기 프로필" width="150"> | [이슬기](https://github.com/leeseulgi0208) | Mobile(iOS) Developer |
+| <img src="https://avatars.githubusercontent.com/u/106726862?v=4" alt="이재혁 프로필" width="150"> | [이재혁](https://github.com/hamgui-2022) | Mobile(iOS) Developer |
+| <img src="https://avatars.githubusercontent.com/u/126345795?v=4" alt="박상혁 프로필" width="150"> | [박상혁](https://github.com/altakori) | Server Developer |
 
 <br>
 
