@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x400" alt="RoutinA Mockup">
+  <img src="https://github.com/user-attachments/assets/db04ccb3-8fe5-449e-9730-ced306ebf648" alt="RoutinA Mockup">
 </p>
 
 <p align="center">
