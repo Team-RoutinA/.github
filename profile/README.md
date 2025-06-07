@@ -27,7 +27,7 @@ RoutinA is an alarm-based morning routine management agent. This service aims to
 
 <br>
 
-## **🤔 The Problem We Solve**
+## **💬 The Problem We Solve**
 
 * **Why:** Most people who try to form a morning routine struggle to maintain it consistently.
 * **How:** We address this problem by encouraging users to perform their morning routines immediately after waking up and by providing continuous motivation.
@@ -39,13 +39,15 @@ RoutinA is an alarm-based morning routine management agent. This service aims to
 
 <table>
   <tr>
-    <td align="center"><strong>⏰ Alarm Integration</strong></td>
-    <td align="center"><strong>📈 Routine Tracking</strong></td>
-    <td align="center"><strong> мотивация. </strong></td>
+    <td align="center"><strong>Plan Routine</strong></td>
+    <td align="center"><strong>Plan Alarm</strong></td>
+    <td align="center"><strong>Do Routine</strong></td>
+    <td align="center"><strong>See Calendar</strong></td>
   </tr>
   <tr>
     <td align="center"><img src="https://via.placeholder.com/300x200.gif?text=Alarm+Feature+Demo" alt="Alarm Feature Demo"></td>
     <td align="center"><img src="https://via.placeholder.com/300x200.gif?text=Tracking+Feature+Demo" alt="Tracking Feature Demo"></td>
+    <td align="center"><img src="https://via.placeholder.com/300x200.gif?text=Motivation+Feature+Demo" alt="Motivation Feature Demo"></td>
     <td align="center"><img src="https://via.placeholder.com/300x200.gif?text=Motivation+Feature+Demo" alt="Motivation Feature Demo"></td>
   </tr>
 </table>
@@ -62,5 +64,5 @@ RoutinA is an alarm-based morning routine management agent. This service aims to
 
 ## **📂 Main Repositories**
 
-* **[RoutinA-iOS](https://github.com/Team-RoutinA/routina-mobile-ios)**: 📱 The official iOS client for RoutinA.
-* **[RoutinA-Server](https://github.com/Team-RoutinA/routina-server-2)**: ☁️ The backend server handling API requests and data processing.
+* **[RoutinA-iOS](https://github.com/Team-RoutinA/routina-mobile-ios)**: The official iOS client for RoutinA.
+* **[RoutinA-Server](https://github.com/Team-RoutinA/routina-server-2)**: The backend server handling API requests and data processing.
