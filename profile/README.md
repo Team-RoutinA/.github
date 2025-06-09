@@ -45,10 +45,10 @@ RoutinA is an alarm-based morning routine management agent. This service aims to
     <td align="center"><strong>See Calendar</strong></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://via.placeholder.com/300x200.gif?text=Alarm+Feature+Demo" alt="Alarm Feature Demo"></td>
-    <td align="center"><img src="https://via.placeholder.com/300x200.gif?text=Tracking+Feature+Demo" alt="Tracking Feature Demo"></td>
-    <td align="center"><img src="https://via.placeholder.com/300x200.gif?text=Motivation+Feature+Demo" alt="Motivation Feature Demo"></td>
-    <td align="center"><img src="https://via.placeholder.com/300x200.gif?text=Motivation+Feature+Demo" alt="Motivation Feature Demo"></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/643cc7fb-a3d4-4fc6-b8c9-98a373261ac7" alt="Alarm Feature Demo"></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/926ccd5b-730a-4920-b9a1-945547d71867" alt="Tracking Feature Demo"></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/5a089ffe-db7d-4302-8757-203391fcf468" alt="Motivation Feature Demo"></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/d4c8b08a-6bb7-4fc5-b415-f31a53b0f635" alt="Motivation Feature Demo"></td>
   </tr>
 </table>
 
